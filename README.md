@@ -1,5 +1,5 @@
 GetCommission
--------------
+----------
 TEST CODE TASK - Junior Python Django Developer - Remote
 
 Solution for test task for Junior Python Developer
