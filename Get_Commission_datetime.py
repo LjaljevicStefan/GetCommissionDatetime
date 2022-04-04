@@ -21,6 +21,8 @@ def get_commission(date_str = ''):
     if check == 1:
         if date_str.month > 5 and date_str.month < 10:
             return 0.15
+        elif date_str.month == 12 or date_str.month == 1:
+            return 0.12
         else:
             return 0.1
     else:
